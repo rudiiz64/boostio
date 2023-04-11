@@ -5,8 +5,9 @@
   (paper "A4")
 
   (title_block
-    (date "2023-04-05")
-    (rev "0.1")
+    (title "Power Splitter")
+    (date "2023-04-11")
+    (rev "1.0")
   )
 
   (lib_symbols
@@ -1100,7 +1101,6 @@
       )
     )
   )
-
 
   (junction (at 247.396 52.832) (diameter 0) (color 0 0 0 0)
     (uuid 0a2e499d-a7e8-4c59-983d-e693cb36be84)
