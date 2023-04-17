@@ -439,17 +439,7 @@
     "meta": {
       "version": 3
     },
-    "net_colors": {
-      "+12V": "rgb(0, 0, 194)",
-      "+3V3": "rgb(0, 0, 194)",
-      "+5V": "rgb(0, 0, 194)",
-      "GND": "rgb(0, 0, 194)",
-      "Net-(D1-K)": "rgb(0, 0, 194)",
-      "Net-(D2-A)": "rgb(0, 0, 194)",
-      "Net-(D3-K)": "rgb(0, 0, 194)",
-      "Net-(D4-K)": "rgb(0, 0, 194)",
-      "Net-(D5-A)": "rgb(0, 0, 194)"
-    },
+    "net_colors": null,
     "netclass_assignments": null,
     "netclass_patterns": []
   },
